@@ -1,5 +1,5 @@
 # Two dimansional structural frame analysis
-
+<sup>
 Inputs:
 
         Node:
@@ -40,6 +40,7 @@ Structure:
 
 AssignThermalLoad(Temperature Change) : Assign axial thermal load to all members. Both cases +dT and -dT should be observed!
 
+  
 Output:
 
         Node:
@@ -72,4 +73,4 @@ restriction : List of assigned restrictions.
 
                 R : Array of support reactions.
 
-getPeriods() : Returns list of natural periods in length of number of assigned masses.
+getPeriods() : Returns list of natural periods in length of number of assigned masses.</sup>
