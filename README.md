@@ -1,8 +1,8 @@
 # Two dimansional structural frame analysis
 
 
-Inputs:  
-        Node:
+1. Inputs:  
+        1. Node:
                 Node(Coordinate) : Define a node
                 AssignLoad(Direction, Magnitude) : Assign load to the node, direction should be 'x', 'y' or 'z'. 'z' means it is moment.
                 AssignSupport(Name or Restriction) : Can be input 'fixed', 'pin' or restriction list like [1,1,0] for pin.
