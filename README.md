@@ -1,5 +1,5 @@
 # Two dimansional structural frame analysis
-
+<sub>
 Inputs:
 
         Node:
@@ -77,4 +77,4 @@ Output:
 
                 R : Array of support reactions.
 
-                getPeriods() : Returns list of natural periods in length of number of assigned masses.</small>
+                getPeriods() : Returns list of natural periods in length of number of assigned masses.</sub>
