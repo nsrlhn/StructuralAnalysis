@@ -1,7 +1,6 @@
 # Two dimansional structural frame analysis
 
 
-
 Inputs:
         Node:
                 Node(Coordinate) : Define a node
@@ -12,7 +11,7 @@ Inputs:
         Material:
                 Material(Modulus of Elasticity, Thermal Expansion Coefficient) : Define a material
         Section:
-                Section(Area, Moment of Inertia, Material) : Define a section 
+                Section(Area, Moment of Inertia, Material) : Define a section
         Member:
                 Member(Start Node, End Node, Section) : Define a member.
                 AssignFEM([d1,d2,d3,d4,d5,d6]) : Assign FEM with respect to member's local coordinate system.
