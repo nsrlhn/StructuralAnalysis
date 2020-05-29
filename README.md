@@ -40,9 +40,8 @@ Inputs:
         Structure:
 
                 AssignThermalLoad(Temperature Change) : Assign axial thermal load to all members. Both cases +dT and -dT should be observed!
-
-  
-    
+<br>
+<br>
 Output:
 
         Node:
