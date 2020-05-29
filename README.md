@@ -49,13 +49,13 @@ Output:
 
                 displacements : List of displacements for the node
 
-dof : List of dof numbers of the node assigned during equation numbering in the analysis.
+                dof : List of dof numbers of the node assigned during equation numbering in the analysis.
 
                 load : List of assigned loads.
 
-mass : List of assigned mass.
+                mass : List of assigned mass.
 
-restriction : List of assigned restrictions.
+                restriction : List of assigned restrictions.
 
                 SupportReactions : List of support reactions for the node.
 
@@ -75,4 +75,4 @@ restriction : List of assigned restrictions.
 
                 R : Array of support reactions.
 
-getPeriods() : Returns list of natural periods in length of number of assigned masses.</sup>
+                getPeriods() : Returns list of natural periods in length of number of assigned masses.</sup>
