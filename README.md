@@ -1,5 +1,5 @@
 # Two dimansional structural frame analysis
-<small>
+
 Inputs:
 
         Node:
